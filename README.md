@@ -16,6 +16,7 @@ We're providing a basic structure for you, so you can focus more on what actuall
   * Optimize for performance and explain which steps you took
   * Write tests to check functionality
   * Add instructions on how to setup project, run tests and what could be improved in further steps
+  * (optional) add timezone support and serve content according to users timezone
   
   
 What's already done
