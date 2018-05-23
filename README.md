@@ -17,7 +17,7 @@ We're providing a basic structure for you, so you can focus more on what actuall
   * Write tests to check functionality
   * Add instructions on how to setup project, run tests and what could be improved in further steps
   * (optional) add timezone support and serve content according to users timezone
-  
+  * Provide results within own git repository and add your remarks within this README or as comments within code (but describe here where to find those comments)
   
 What's already done
 -------------------
